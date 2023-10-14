@@ -19,28 +19,16 @@
 <a href="https://www.linkedin.com/in/ulisesgomezcortes/" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://medium.com/@yulisesyet" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/medium.png" alt="medium" height="30" width="30" /></a>
 </p>
-<br>
-
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vibrantfix.github.io/)](https://vibrantfix.github.io/)
-![Waka Readme](https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg)
-![HitCount](https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square)
-
-        
+<br>  
 
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="https://posit.co/download/rstudio-desktop/"><img alt="R" src="https://img.shields.io/badge/Rstudio-3776AB?logo=rstudio&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
 
 </p>
 
