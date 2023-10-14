@@ -29,15 +29,17 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-ffd43b?logo=python&logoColor=306998&style=flat"></a>
 <a href="https://posit.co/download/rstudio-desktop/"><img alt="R" src="https://img.shields.io/badge/Rstudio-3776AB?logo=rstudio&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
+<a href=" "><img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white&style=flat"></a>
+ <a href=" "><img alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&style=flat"></a>
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
 <a href="https://openai.com/"><img alt="OpenAI" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&style=flat"></a>
-<a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
-<a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
+<a href=" "><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&style=flat"></a>
+<a href=" "><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat"></a>
+<a href=" "><img alt="Prefect" src="https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white&style=flat"></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
