@@ -16,9 +16,8 @@
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="discord" height="30" width="30" /></a>
-<a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ulisesgomezcortes/" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://medium.com/@yulisesyet" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/medium.png" alt="medium" height="30" width="30" /></a>
 </p>
 <br>
 
