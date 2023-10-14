@@ -75,7 +75,7 @@
 
 <p>
 <a href="#"><img alt="Ulises's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=Cow-Bow-Odysseus&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Ulises's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=Cow-Bow-Odysseus&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="#"><img alt="Ulises's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=Cow-Bow-Odysseus&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
 <br/>
 </p>
 
