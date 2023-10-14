@@ -69,7 +69,7 @@
 </p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Cow-Bow-Odysseus&theme=gotham"/>
-<img width="350px" align="top" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/computer.gif" alt="Computer-boy" />
+<img width="400px" align="top" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/computer.gif" alt="Computer-boy" />
 
 </p>
 
