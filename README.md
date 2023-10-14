@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p>
-🤘🏻 Hi, I'm Ulises, a data scientist with experience in the industry. I have a strong track record of using data to solve real-world problems, and I am passionate about using my skills to make a positive impact on the world 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Cloud Deployment 🕸️ and working on Python 🐍.
+🤘🏻 Hi, I'm Ulises, a data scientist with experience in the industry. I am passionate about using my skills to make a positive impact on the world 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Cloud Deployment 🕸️ and working on Python 🐍.
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
