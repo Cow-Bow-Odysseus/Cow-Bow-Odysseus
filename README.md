@@ -26,7 +26,7 @@
 <p>
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-ffd43b?logo=python&logoColor=306998&style=flat"></a>
 <a href="https://posit.co/download/rstudio-desktop/"><img alt="R" src="https://img.shields.io/badge/Rstudio-3776AB?logo=rstudio&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
