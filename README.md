@@ -35,6 +35,7 @@
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
+<a href="https://openai.com/"><img alt="OpenAI" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&style=flat"></a>
 <a href="https://github.com/"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat"></a>
 <a href="https://wordpress.com/"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat"></a>
 </p>
