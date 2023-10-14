@@ -63,13 +63,13 @@
 
 <h2>💻 GitHub Profile Stats</h2>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cow-Bow-Odysseus&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cow-Bow-Odysseus&theme=gotham&show_icons=true" alt="Cow-Bow-Odysseus"/>
 
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Cow-Bow-Odysseus&show_icons=true&theme=gotham"/>
 </p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Cow-Bow-Odysseus&theme=gotham"/>
-<img width="35%" align="right" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/computer.gif" alt="Computer-boy" />
+<img width="45%" align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/computer.gif" alt="Computer-boy" />
 
 </p>
 
