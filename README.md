@@ -61,17 +61,7 @@
 <a href=" "><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&style=flat"></a>
 </p>
 
-<h2>📊 Github Stats and Activity</h2>
-
-<h3>🔥 Streak Stats</h3>
-
-<p>
-<a href="#">
-<img alt="Ulises's streak" src="https://streak-stats.demolab.com?user=Cow-Bow-Odysseus&theme=merko&hide_border=true&exclude_days=Sun%2CSat&hide_current_streak=true"/>
-</a>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
+<h2>💻 GitHub Profile Stats</h2>
 <br />
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cow-Bow-Odysseus&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
