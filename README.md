@@ -11,7 +11,7 @@
 - 💻 Major is **Finance**.
 - 🌱 I'm currently learning **Solution Architect by AWS**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-- 📝 Sometimes I write articles on **[My website](https://medium.com/@yulisesyet))**
+- 📝 Sometimes I write articles on **[Medium](https://medium.com/@yulisesyet)**
 - 💬 If you have any questions, **just ask me**.
 - btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
 
