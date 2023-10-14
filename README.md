@@ -1,9 +1,9 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Ulises+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=300&color=33FFF3&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Ulises+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 <br>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  Hi, I'm Ulises, a data scientist with experience in the industry. I have a strong track record of using data to solve real-world problems, and I am passionate about using my skills to make a positive impact on the world 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Cloud Deployment 🕸️ and working on Python 🐍.
+<p>
+🤘🏻 Hi, I'm Ulises, a data scientist with experience in the industry. I have a strong track record of using data to solve real-world problems, and I am passionate about using my skills to make a positive impact on the world 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Cloud Deployment 🕸️ and working on Python 🐍.
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
