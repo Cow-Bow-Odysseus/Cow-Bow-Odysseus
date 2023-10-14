@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ulisesgomezcortes/" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://medium.com/@yulisesyet" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/medium.png" alt="medium" height="30" width="30" /></a>
-<a href="mailto://yulisesyet@gmail+git.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" width="30" /></a>
+<a href="mailto://yulisesyet@gmail+git.com" target="blank"><img align="center" src="https://github.com/Cow-Bow-Odysseus/Cow-Bow-Odysseus/blob/main/gititems/images/gmail.svg" alt="gmail" height="30" width="30" /></a>
 </p>
 <br>  
 
