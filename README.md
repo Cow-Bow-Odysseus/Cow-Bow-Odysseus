@@ -67,7 +67,7 @@
 
 <p>
 <a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=vibrantfix&theme=dracula&hide_border=true&background=000000EE"/>
+<img alt="Ulises's streak" src="https://streak-stats.demolab.com?user=Cow-Bow-Odysseus&theme=merko&hide_border=true&exclude_days=Sun%2CSat&hide_current_streak=true"/>
 </a>
 </p>
 
@@ -80,43 +80,3 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌆 Daytime                76 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
-🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 3 hrs 41 mins       ████████████████░░░░░░░░░   62.08 % 
-JavaScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-
-💻 Operating System: 
-Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/04/2023 09:07:31 UTC
-<!--END_SECTION:waka-->
-<br>
-
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
-
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-  </a>
